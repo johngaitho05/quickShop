@@ -1,0 +1,61 @@
+ .col-md-3
+    {
+    display: inline-block;
+    margin-left:-4px;
+     margin-top: 1rem;
+    }
+    .carousel-indicators .active {
+    background-color: blue;
+    }
+    .col-md-3 img{
+    width: 170px;
+    height: 200px;
+    }
+    body .carousel-indicator li{
+    background-color: blue;
+    }
+    body .carousel-indicators{
+    bottom: -40px;
+    }
+    .carousel-indicators li {
+
+
+    background-color: #7270fc;
+    }
+    .card-title{
+        text-align: justify !important;
+    }
+    body .carousel-control-prev-icon,
+    body .carousel-control-next-icon{
+    background-color: blue;
+    }
+    .card{
+    width: 18rem;
+    min-height:400px;
+    }
+.container{
+    margin-top: 3rem !important;
+}
+.carousel-control-next, .carousel-control-prev{
+    bottom: 6rem;
+}
+
+.cart{
+    position:  absolute;
+    bottom: 1rem;
+}
+.quickView{
+    position:  absolute;
+    bottom: 1rem;
+    right: 2rem;
+}
+
+.carousel .card{
+    border:none;
+}
+.carousel-control-next{
+    right: -5em;
+}
+.carousel-control-prev{
+    left: -5em;
+}

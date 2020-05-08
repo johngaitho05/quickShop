@@ -1,0 +1,17 @@
+body .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bg-dark{
+    background:#2f6075!important;
+}
+
+.container{
+    margin-top: 5rem !important;
+}
+
+#detailViewImage{
+    max-height: 500px;
+    width:auto;
+}
